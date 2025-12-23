@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "若者のすべて",
+  "base_artist": "suis from ヨルシカ",
+  "createdAt": "2025-12-23T11:38:31.971767Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/01_若者のすべて_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/02_若者のすべて_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/03_若者のすべて_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "Lefty Hand Cream",
+      "has_synced": true,
+      "path": "select/04_若者のすべて_Lefty_Hand_Cream.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/05_若者のすべて_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "柴咲コウ",
+      "has_synced": false,
+      "path": "select/06_若者のすべて_柴咲コウ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/07_若者のすべて_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "Harusaruhi",
+      "has_synced": true,
+      "path": "select/08_若者のすべて_Harusaruhi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "Kou Shibasaki",
+      "has_synced": false,
+      "path": "select/09_若者のすべて_Kou_Shibasaki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "GARNiDELiA",
+      "has_synced": true,
+      "path": "select/10_若者のすべて_GARNiDELiA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "anderlust",
+      "has_synced": false,
+      "path": "select/11_若者のすべて_anderlust.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "若者のすべて - Wakamono No Subete",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/12_若者のすべて_-_Wakamono_No_Subete_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "若者のすべて(Wakamono No Subete)",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/13_若者のすべて(Wakamono_No_Subete)_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "suis from Yorushika",
+      "has_synced": true,
+      "path": "select/14_若者のすべて_suis_from_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "若者のすべて",
+      "artist": "suis from Yorushika",
+      "has_synced": true,
+      "path": "select/15_若者のすべて_suis_from_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "若者のすべて",
+      "artist": "suis from ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_若者のすべて_suis_from_ヨルシカ.txt"
+    }
+  ]
+}
